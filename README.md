@@ -7,6 +7,6 @@ graph LR
 A(Intro to Programming) --> B(AP Computer Science A) --> C(AP Computer Science Principles) --> D(Advanced Topics in Programming)
 ```
 # What I learned
-Drawing/writing out test-cases and working backwards immensely helped in my approach in solving these recursive problems. Through these recursive exercises, I learned how essential pseudocode are brainstorming are when approaching a problem, as they allow the programmer to visualize test-cases, edge-cases, and have a strong grasp on what they are trying to solve.
+Drawing/writing out test-cases and working backwards immensely helped in my approach in solving these recursive problems. Through these recursive exercises, I learned how essential pseudocode and brainstorming are when approaching a problem, as they allow the programmer to visualize test-cases, edge-cases, and have a strong grasp on what they are trying to solve.
 
 
